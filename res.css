@@ -5,19 +5,22 @@
     }
     .pix{
         margin-left: -182px;
+        font-size: 20px;
     }
     li{
         padding-right: 6px;
     }
     .icon{
-        margin-left: -120px;
-margin-top: 6px;
+        margin-left: -128px;
+margin-top: 2px;
     }
     .hh{
         margin-right: 15px;
+        padding-top: 40px;
     }
     .intro{
-        font-size: 19px;
+        padding-top: 33px;
+        font-size: 15px;
     }
     .btn1{
         padding: 10px 16px;
@@ -28,9 +31,9 @@ margin-top: 6px;
         padding: 10px 16px;
     }
     .bar{
-        height: 95px;
+        height: 59px;
         margin-right: 4px;
-        font-size: 13px;
+        font-size: 11px;
         margin-left: 9px;
     }
     .im1{
@@ -41,8 +44,8 @@ margin-top: 6px;
         margin-left: 3px;
     }
     .but{
-        margin-top: 25px;
-        left: 52% 
+        margin-top: 156px;
+margin-left: 41px;
     }
     .bar2{
         margin-right: 50px;
@@ -50,8 +53,22 @@ margin-top: 6px;
         
     }
     .line{
-        margin-top: 78px;
-font-size: 14px;
+        margin-top: 43px;
+font-size: 11px;
+    }
+    .head{
+        font-size: 13px;
+        margin-left: 57px;
+        margin-top: -3px;
+    }
+    .p1{
+        font-size: 13px;
+    }
+    .p2{
+        font-size: 14px;
+    }
+    .p3{
+        font-size: 13px;
     }
 @media screen and (max-width:1000px) and (min-width:750px){
     nav{
@@ -80,12 +97,15 @@ margin-top: 9px;
     .im1{
         margin-left: -235px;
     }
+    .pix{
+        margin-left: -161px;
+    }
 }
 
 @media screen and (max-width:378px){
     .but{
-        margin-top: 87px;
-        margin-left: -3px
+        margin-top: 160px;
+margin-left: 12px;
     }
     .line{
         margin-top: 42px;
