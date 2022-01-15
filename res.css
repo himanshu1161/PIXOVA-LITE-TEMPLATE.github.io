@@ -1,4 +1,10 @@
 @media screen and (max-width:428px){
+    .container{
+        background-repeat: repeat-x;
+        height: 100%;
+        width: 100%;
+        background-size: 300%;
+    } 
     nav ul{
         margin-top: 7px;
         margin-left: 13px;
